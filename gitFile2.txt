@@ -7,3 +7,4 @@ Ansible
 Sonarqube
 Nexus
 Jenkins
+Prometheus
