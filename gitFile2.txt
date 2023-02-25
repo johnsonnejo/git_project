@@ -1,1 +1,1 @@
-These are lists of DevOps tools
+These are lists of DevOps tools used in organizations:
