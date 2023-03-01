@@ -1,4 +1,4 @@
-These are lists of DevOps tools:
+These are lists of DevOps tools used in organizations:
 Docker
 Terraform
 Maven
@@ -7,3 +7,4 @@ Ansible
 Sonarqube
 Nexus
 Jenkins
+Prometheus
