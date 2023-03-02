@@ -1,0 +1,6 @@
+Git is amazing
+Yes it is
+
+
+Git rebase
+Git rebase
