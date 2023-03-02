@@ -1,0 +1,5 @@
+GPO
+ASUS
+Azure AD
+NSG
+
