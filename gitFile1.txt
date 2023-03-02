@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pull request to get approval to merge my branch to the main in the remote repo
+=======
+Working with Git
+It is interesting
+>>>>>>> newFeature
