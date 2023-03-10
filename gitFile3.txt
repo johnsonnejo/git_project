@@ -1,0 +1,6 @@
+GPO
+ASUS
+Azure AD
+NSG
+TCP/IP
+DNS

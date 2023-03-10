@@ -1,1 +1,7 @@
 Revisit git again
+
+Git is amazing
+Yes it is
+
+
+Git rebase
