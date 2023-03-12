@@ -1,2 +1,3 @@
 echo "This is to BUILD the project"
-echo "BUILDING======================="
+d=$(date +%d-%m-%Y==%H-%M-%S)
+echo "BUILDING at $d"
