@@ -1,2 +1,2 @@
 test pull request again
-pull
+scripted pipeline
