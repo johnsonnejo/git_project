@@ -1,3 +1,3 @@
 echo "This is to perform UNIT test"
-echo "UNIT test IN PROGRESS============"
-
+d=$(date +%d-%m-%Y==%H-%M-%S)
+echo "UNIT TEST IN PROGRESS $d"

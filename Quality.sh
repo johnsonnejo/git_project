@@ -1,3 +1,4 @@
 echo "This is to perform Quality -Gate"
-echo "QUALITY GATE IN PROGRESS============"
+d=$(date +%d-%m-%Y==%H-%M-%S)
+echo "QUALITY GATE IN PROGRESS $d"
 
